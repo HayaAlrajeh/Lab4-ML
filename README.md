@@ -1,4 +1,8 @@
-In this assignment, I focused on preparing the dataset by improving its quality and making it ready for analysis. I handled missing values, detected and treated outliers using the IQR method, and applied normalization techniques such as Min-Max and Z-score to ensure the data is on a consistent scale. After examining the relationships between numerical features, I applied PCA to reduce dimensionality while keeping the most important information. Overall, these steps help make the dataset cleaner, more reliable, and suitable for further analysis and machine learning tasks.
+# Dataset Description
 
+The dataset used in this project is a sales dataset that includes both numerical and categorical features such as Sales, Segment, Region, and Category. These features represent different aspects of business data and require preprocessing before analysis.
 
-Note: The dataset is large, so GitHub preview may not display it directly.
+In this lab, the dataset was prepared by handling missing values, detecting and treating outliers using the IQR method, and normalizing numerical features using Min-Max and Z-score. After analyzing the relationships between features, PCA was applied to reduce dimensionality while keeping the most important information.
+
+# Note:
+The dataset is large, so GitHub preview may not display it directly.
